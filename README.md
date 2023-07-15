@@ -11,7 +11,8 @@ $ sudo chmod +x ./tela.sh<br/>
 $ ./tela.sh<br/>
 <br/>
 Dependencias / Dependency:<br/>
-TO INSTALL XRANDR EM UBUNTU E DEBIAN/ PARA INSTALAR XRANDR EM UBUNTU E DEBIAN:<br/>
+TO INSTALL XRANDR IN UBUNTU E DEBIAN<br/>
+PARA INSTALAR XRANDR EM UBUNTU E DEBIAN:<br/>
 <br/>
 $ sudo apt-get update<br/>
 $ sudo apt-get install x11-xserver-utils<br/>
